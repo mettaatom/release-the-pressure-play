@@ -1,0 +1,9 @@
+{
+  "name": "Release the Pressure",
+  "short_name": "Pressure",
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#1b1420",
+  "theme_color": "#7ec8f0"
+}
